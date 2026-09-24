@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Majer.Marton\\Desktop\\oraimunka\\linqu\\linqu\\linqu.csproj": {}
+    "C:\\Users\\Majer.Marton\\Desktop\\linq_beolvasas-Linqu_groupby\\linqu\\linqu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Majer.Marton\\Desktop\\oraimunka\\linqu\\linqu\\linqu.csproj": {
+    "C:\\Users\\Majer.Marton\\Desktop\\linq_beolvasas-Linqu_groupby\\linqu\\linqu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Majer.Marton\\Desktop\\oraimunka\\linqu\\linqu\\linqu.csproj",
+        "projectUniqueName": "C:\\Users\\Majer.Marton\\Desktop\\linq_beolvasas-Linqu_groupby\\linqu\\linqu.csproj",
         "projectName": "linqu",
-        "projectPath": "C:\\Users\\Majer.Marton\\Desktop\\oraimunka\\linqu\\linqu\\linqu.csproj",
+        "projectPath": "C:\\Users\\Majer.Marton\\Desktop\\linq_beolvasas-Linqu_groupby\\linqu\\linqu.csproj",
         "packagesPath": "C:\\Users\\Majer.Marton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Majer.Marton\\Desktop\\oraimunka\\linqu\\linqu\\obj\\",
+        "outputPath": "C:\\Users\\Majer.Marton\\Desktop\\linq_beolvasas-Linqu_groupby\\linqu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
